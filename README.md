@@ -1,9 +1,28 @@
-# Hi there 👋 and welcom on my github page !
+# Hello world 👋 and welcom on my github page !
 
 ## ✔ I'm kentin zinsou Hogbonouto, software developper
 
-#### 🌱 I’m currently learning software engineering at alx-holberton school and at freeCodeCamp. Big javascript language enthusiast, i like all framework which involve this mervelous language. i'm learning other language such as python and c 
-- 
+#### 🌱 With more than five's year experience in software developpement domain, i have a good knowledge with some web stack such as : 
+
+| # Language            |# Year of experience|    # rank       |
+|-----------------------|------------------- |-----------------|
+| Javascript            |   more than 5      |    80%          |
+| python                |   more than 2      |    30%          |
+| C                     |   more than 2      |    25%          |
+| svg                   |   more than 3      |    30%          |
+| html                  |   more than 5      |    90%          |
+| css                   |   more than 5      |    80%          |
+| liquid                |   more than 2      |    25%          |
+|                       |                    |                 |
+|Runtime Environment    |   more than 3      |    80%          |
+|     nodejs            |                    |                 |
+|                       |                    |                 |
+|DevOps                 |                    |                 |
+|shell                  |   more than 3      |                 |
+|git & github           |   more than 3      |                 |
+|Linux                  |   more than 2      |                 |
+|                       |                    |                 |
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
