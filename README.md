@@ -40,3 +40,12 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=kentinHogbonouto">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kentinHogbonouto" />
 </a>
+
+### Github stats
+
+[![kentin Hogbonouto's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/kentinHogbonouto/github-readme-stats)
+
+
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kentinHogbonouto&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
