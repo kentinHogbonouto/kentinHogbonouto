@@ -14,8 +14,8 @@
 | css                   |   more than 5      |    80%          |              |                 |                                                         |
 | liquid                |   more than 2      |    25%          |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
-|Runtime Environment    |   more than 3      |    80%          |              |                 |                                                         |
-|     nodejs            |                    |                 |              |                 |                                                         |
+|Runtime Environment    |                    |                 |              |                 |                                                         |
+|     nodejs            |   more than 3      |       80%       |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |DevOps                 |                    |                 |              |                 |                                                         |
 |shell                  |   more than 3      |                 |              |                 |                                                         |
