@@ -1,4 +1,4 @@
-# Hello world 👋 and welcom on my github page !
+# Hello world 👋 and welcome on my github page !
 
 ## ✔ I'm kentin zinsou Hogbonouto, software developper
 
