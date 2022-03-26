@@ -2,7 +2,7 @@
 
 ## ✔ I'm kentin zinsou Hogbonouto, software developper
 
-#### 🌱 With more than five's year experience in software developpement domain, i have a good knowledge with some web stack such as : 
+#### 🌱 With more than five's year experience in software developpement domain, i have a good knowledge with some web stack such as  
 
 | # Language            |# Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
