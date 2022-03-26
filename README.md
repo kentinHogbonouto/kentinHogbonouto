@@ -34,3 +34,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Streak
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=kentinHogbonouto">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kentinHogbonouto" />
+</a>
