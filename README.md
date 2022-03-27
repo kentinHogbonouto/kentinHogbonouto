@@ -32,7 +32,7 @@
 |Backend Framework      |                    |                 |              |                 |                                                         |
 |expressjs              |                    |                 |              |                 |                                                         |              
 -  📚   I'm currently studying softwar engineering at alx-holberton school and at freeCodeCamp
-- 🤷‍♀️ what can i do ? API with nodejs, moder user interface with Reactjs, visualize data with D3js, responsive web design with html/css and so so 
+- 🤷‍♀️ what can i do ? API with nodejs, modern user interface with Reactjs, visualize data with D3js, responsive web design with html/css and so so 
 - 👯 I’m looking to collaborate on nodejs project
 - 🤔 I’m looking for help with Reactjs
 - 💬 Ask me anything about nodejs
