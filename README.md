@@ -1,26 +1,26 @@
 # Hello world 👋 and welcome on my github page !
 
-## ✔ I'm kentin zinsou Hogbonouto, software developper
+## ✔ I'm kentin zinsou Hogbonouto, software engineering student at Alx-holberton school
 
-#### 🌱 With more than five's year experience in software developpement domain, i have a good knowledge with some web stack such as  
+#### 🌱 I have a good knowledge with some web stack such as  
 
 | # Language            |# Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
-| Javascript            |   more than 5      |    80%          |              |Javascript teacher at Etrilabs parakou responsive webdesigne developer at etrilabs parakou responsive webdesing developer at bryoxchande| Software Engineering at Alx-holberton school (currently)|
-| python                |   more than 2      |    30%          |              |                 |                                                         |               
-| C                     |   more than 2      |    25%          |              |                 |                                                         |
-| svg                   |   more than 3      |    30%          |              |                 |                                                         |
-| html                  |   more than 5      |    90%          |              |                 |                                                         |
-| css                   |   more than 5      |    80%          |              |                 |                                                         |
-| liquid                |   more than 2      |    25%          |              |                 |                                                         |
+| Javascript            |                    |    80%          |              |                 | Software Engineering at Alx-holberton school (currently)|
+| python                |                    |    30%          |              |                 |                                                         |               
+| C                     |                    |    25%          |              |                 |                                                         |
+| svg                   |                    |    30%          |              |                 |                                                         |
+| html                  |                    |    90%          |              |                 |                                                         |
+| css                   |                    |    80%          |              |                 |                                                         |
+| liquid                |                    |    25%          |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |Runtime Environment    |                    |                 |              |                 |                                                         |
-|     nodejs            |   more than 3      |       80%       |              |                 |                                                         |
+|     nodejs            |                    |    80%          |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |DevOps                 |                    |                 |              |                 |                                                         |
-|shell                  |   more than 3      |                 |              |                 |                                                         |
-|git & github           |   more than 3      |                 |              |                 |                                                         |
-|Linux                  |   more than 2      |                 |              |                 |                                                         |
+|shell                  |                    |                 |              |                 |                                                         |
+|git & github           |                    |                 |              |                 |                                                         |
+|Linux                  |                    |                 |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |Frontend Framework     |                    |                 |              |                 |                                                         |
 |Reactjs                |                    |                 |              |                 |                                                         |
