@@ -15,7 +15,7 @@
 | liquid                |                    |                 |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |Runtime Environment    |                    |                 |              |                 |                                                         |
-|     nodejs            |                    |    80%          |              |                 |                                                         |
+|     nodejs            |                    |                 |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |DevOps                 |                    |                 |              |                 |                                                         |
 |shell                  |                    |                 |              |                 |                                                         |
