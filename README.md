@@ -29,15 +29,17 @@
 |                       |                    |                 |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 
--  💻I'm currently working at intside (software developpement companie locate at Benin)
+-  💻I'm currently working at intside (software developpement companie locate at Benin) as software developper
 -  📚   I'm currently studying softwar engineering at alx-holberton school and at freeCodeCamp
-- 🤷‍♀️ what can i do ? API with nodejs, User interface, visualize data with D3js, responsive web design and so so 
+- 🤷‍♀️ what can i do ? API with nodejs, moder user interface with Reactjs, visualize data with D3js, responsive web design with html/css and so so 
 - 👯 I’m looking to collaborate on nodejs project
 - 🤔 I’m looking for help with Reactjs
 - 💬 Ask me anything about nodejs
 - 📫 How to reach me: kentinhogbonouto1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a normal geek with a normal life 🤣
+
+"shoot the moon, even if you miss. You will land amoung the star"
 
 ### Streak
 
@@ -69,3 +71,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## social link
+[!twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKentinZinsou)
