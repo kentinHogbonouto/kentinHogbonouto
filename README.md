@@ -6,7 +6,7 @@
 
 | # Language            |# Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
-| Javascript            |   more than 5      |    80%          |              |                 | Software Engineering at Alx-holberton school (currently)|
+| Javascript            |   more than 5      |    80%          |              |Javascript teacher at Etrilabs parakou| Software Engineering at Alx-holberton school (currently)|
 | python                |   more than 2      |    30%          |              |                 |                                                         |               
 | C                     |   more than 2      |    25%          |              |                 |                                                         |
 | svg                   |   more than 3      |    30%          |              |                 |                                                         |
