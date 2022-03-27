@@ -4,7 +4,7 @@
 
 #### 🌱 I have a good knowledge with some web stack such as  
 
-|   Language            |# Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
+|   Language            |  Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
 | Javascript            |                    |                 |              |                 | Software Engineering at Alx-holberton school (currently)|
 | python                |                    |                 |              |                 |                                                         |               
