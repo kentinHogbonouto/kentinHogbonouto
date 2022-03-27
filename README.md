@@ -7,7 +7,7 @@
 | # Language            |# Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
 | Javascript            |                    |                 |              |                 | Software Engineering at Alx-holberton school (currently)|
-| python                |                    |    30%          |              |                 |                                                         |               
+| python                |                    |                 |              |                 |                                                         |               
 | C                     |                    |    25%          |              |                 |                                                         |
 | svg                   |                    |    30%          |              |                 |                                                         |
 | html                  |                    |    90%          |              |                 |                                                         |
