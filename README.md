@@ -12,7 +12,7 @@
 | svg                   |                    |                 |              |                 |                                                         |
 | html                  |                    |                 |              |                 |                                                         |
 | css                   |                    |                 |              |                 |                                                         |
-| liquid                |                    |    25%          |              |                 |                                                         |
+| liquid                |                    |                 |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |Runtime Environment    |                    |                 |              |                 |                                                         |
 |     nodejs            |                    |    80%          |              |                 |                                                         |
