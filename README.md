@@ -6,7 +6,7 @@
 
 | # Language            |# Year of experience|    # rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
-| Javascript            |   more than 5      |    80%          |              |Javascript teacher at Etrilabs parakou responsive webdisigne developer at etrilabs parakou| Software Engineering at Alx-holberton school (currently)|
+| Javascript            |   more than 5      |    80%          |              |Javascript teacher at Etrilabs parakou responsive webdesigne developer at etrilabs parakou responsive webdesing developer at bryoxchande| Software Engineering at Alx-holberton school (currently)|
 | python                |   more than 2      |    30%          |              |                 |                                                         |               
 | C                     |   more than 2      |    25%          |              |                 |                                                         |
 | svg                   |   more than 3      |    30%          |              |                 |                                                         |
