@@ -9,7 +9,7 @@
 | Javascript            |                    |                 |              |                 | Software Engineering at Alx-holberton school (currently)|
 | python                |                    |                 |              |                 |                                                         |               
 | C                     |                    |                 |              |                 |                                                         |
-| svg                   |                    |    30%          |              |                 |                                                         |
+| svg                   |                    |                 |              |                 |                                                         |
 | html                  |                    |    90%          |              |                 |                                                         |
 | css                   |                    |    80%          |              |                 |                                                         |
 | liquid                |                    |    25%          |              |                 |                                                         |
