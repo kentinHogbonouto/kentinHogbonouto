@@ -11,7 +11,7 @@
 | C                     |                    |                 |              |                 |                                                         |
 | svg                   |                    |                 |              |                 |                                                         |
 | html                  |                    |                 |              |                 |                                                         |
-| css                   |                    |    80%          |              |                 |                                                         |
+| css                   |                    |                 |              |                 |                                                         |
 | liquid                |                    |    25%          |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |Runtime Environment    |                    |                 |              |                 |                                                         |
