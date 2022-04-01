@@ -1,6 +1,6 @@
 # Hello world 👋 and welcome on my github page !
 
-## ✔ I'm kentin zinsou Hogbonouto, software engineering student at Alx-holberton school
+## ✔ I'm Kentin zinsou Hogbonouto, software engineering student at Alx-holberton school
 
 #### 🌱 I have a good knowledge with some web stack such as  
 
