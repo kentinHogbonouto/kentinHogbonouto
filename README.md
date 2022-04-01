@@ -1,6 +1,6 @@
 # Hello world 👋 and welcome on my github page !
 
-## ✔  I'm Kentin zinsou Hogbonouto, software engineering student at Alx-holberton school
+## ✔  I'm Kentin zinsou Hogbonouto, software engineering student at Alx-Africa & Holberton school
 ## 📚 I'm MERN stack and machine learning student at freeCodeCamp
 ## 💻 Nodejs developper at intside
 ## ✨ Contributor at mdn
