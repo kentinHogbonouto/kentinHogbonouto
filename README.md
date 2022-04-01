@@ -1,9 +1,9 @@
 # Hello world 👋 and welcome on my github page !
 
-# ✔  I'm Kentin zinsou Hogbonouto, software engineering student at Alx-holberton school
-# 📚 
-# 💻 Nodejs developper at intside
-# ✨ Contributor at mdn
+## ✔  I'm Kentin zinsou Hogbonouto, software engineering student at Alx-holberton school
+## 📚 
+## 💻 Nodejs developper at intside
+## ✨ Contributor at mdn
 
 # 🌱 I have a good knowledge with some web stack such as  
 
