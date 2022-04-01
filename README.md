@@ -7,7 +7,7 @@
 |   Language            |  Year of experience|      rank       |certificaiton |work experience  |study                                                    |
 |-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
 | Javascript            |                    |                 |              |                 | Software Engineering at Alx-holberton school (currently)|
-| python                |                    |                 |              |                 |                                                         |               
+| python                |                    |                 |              |                 | MERN stack and machine learning at freeCodeCamp         |             |                       |                    |                 |              |                 |                                                         |   
 | C                     |                    |                 |              |                 |                                                         |
 | svg                   |                    |                 |              |                 |                                                         |
 | html                  |                    |                 |              |                 |                                                         |
