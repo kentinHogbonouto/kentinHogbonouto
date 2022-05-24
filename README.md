@@ -32,7 +32,11 @@
 |material UI            |                    |                 |              |                 |                                                         |
 |                       |                    |                 |              |                 |                                                         |
 |Backend Framework      |                    |                 |              |                 |                                                         |
-|expressjs              |                    |                 |              |                 |                                                         |              
+|expressjs              |                    |                 |              |                 |                                                         |
+|nextjs                 |                    |                 |              |                 |                                                         |
+|Figma                  |                    |                 |              |                 |                                                         |
+|Infinity               |                    |                 |              |                 |                                                         |
+|Slack                  |                    |                 |              |                 |                                                         |
 -  📚   I'm currently studying softwar engineering at alx-Alfrica & holberton school and at freeCodeCamp
 - 🤷‍♀️ what can i do ? API with nodejs, modern user interface with Reactjs, visualize data with D3js, responsive web design with html/css and so so 
 - 👯 I’m looking to collaborate on nodejs project
