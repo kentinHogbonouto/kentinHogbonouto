@@ -5,7 +5,7 @@
 [![Kneint Hogbonouto Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KentinZinsou)
 [![Kentin Hogbonouto StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15492572/kentinhogbonouto)
 
-I'm softawre developper at https://intside.com/
+I'm softawre developper at https://intside.com
 
 #### Github Stats 📊
 [![kentin Hogbonouto's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/kentinHogbonouto/github-readme-stats)
