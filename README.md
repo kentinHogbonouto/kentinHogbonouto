@@ -1,52 +1,5 @@
 # Hello world 👋 and welcome on my github page !
-
-## ✔  I'm Kentin zinsou Hogbonouto, software engineering student at Alx-Africa & Holberton school
-## 📚 I'm MERN stack and machine learning student at freeCodeCamp
-## 💻 Nodejs developper at intside
-## ✨ Contributor at mdn
-## 🌱 I have a good knowledge with some web stack such as  
-
-|   Language            |  Year of experience|      rank       |certificaiton |work experience  |study                                                    |
-|-----------------------|------------------- |-----------------|--------------|---------------- |---------------------------------------------------------|
-| Javascript            |                    |                 |              |                 | Software Engineering at Alx-holberton school (currently)|
-| python                |                    |                 |              |                 | MERN stack and machine learning at freeCodeCamp         |             |                       |                    |                 |              |                 |                                                         |   
-| C                     |                    |                 |              |                 |                                                         |
-| svg                   |                    |                 |              |                 |                                                         |
-| html                  |                    |                 |              |                 |                                                         |
-| css                   |                    |                 |              |                 |                                                         |
-| liquid                |                    |                 |              |                 |                                                         |
-|                       |                    |                 |              |                 |                                                         |
-|Runtime Environment    |                    |                 |              |                 |                                                         |
-|     nodejs            |                    |                 |              |                 |                                                         |
-|                       |                    |                 |              |                 |                                                         |
-|DevOps                 |                    |                 |              |                 |                                                         |
-|shell                  |                    |                 |              |                 |                                                         |
-|git & github           |                    |                 |              |                 |                                                         |
-|Linux                  |                    |                 |              |                 |                                                         |
-|                       |                    |                 |              |                 |                                                         |
-|Frontend Framework     |                    |                 |              |                 |                                                         |
-|Reactjs                |                    |                 |              |                 |                                                         |
-|D3js                   |                    |                 |              |                 |                                                         |
-|Bootsrap               |                    |                 |              |                 |                                                         |
-|sass                   |                    |                 |              |                 |                                                         |
-|material UI            |                    |                 |              |                 |                                                         |
-|                       |                    |                 |              |                 |                                                         |
-|Backend Framework      |                    |                 |              |                 |                                                         |
-|expressjs              |                    |                 |              |                 |                                                         |
-|nextjs                 |                    |                 |              |                 |                                                         |
-|Figma                  |                    |                 |              |                 |                                                         |
-|Infinity               |                    |                 |              |                 |                                                         |
-|Slack                  |                    |                 |              |                 |                                                         |
--  📚   I'm currently studying softwar engineering at alx-Alfrica & holberton school and at freeCodeCamp
-- 🤷‍♀️ what can i do ? API with nodejs, modern user interface with Reactjs, visualize data with D3js, responsive web design with html/css and so so 
-- 👯 I’m looking to collaborate on nodejs project
-- 🤔 I’m looking for help with Reactjs
-- 💬 Ask me anything about nodejs
-- 📫 How to reach me: kentinhogbonouto1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a normal geek with a normal life 🤣
-
-"shoot the moon, even if you miss. You will land amoung the star"
+### Social link 
 
 ### Streak
 
