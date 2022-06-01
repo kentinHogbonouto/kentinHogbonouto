@@ -8,4 +8,6 @@
 I'm softawre developper at https://intside.com
 
 #### Github Stats 📊
-[![kentin Hogbonouto's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/kentinHogbonouto/github-readme-stats)
+<div style="height: 100vh; width: 100%" >
+  [![kentin Hogbonouto's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/kentinHogbonouto/github-readme-stats)
+</div>
