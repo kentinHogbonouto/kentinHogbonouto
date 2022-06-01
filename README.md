@@ -12,7 +12,7 @@ I'm softawre developper at https://intside.com
 
 ### What do i know in computer science
 
-####Frontend Frameword:
+#### Frontend Frameword:
 
 - Reactjs
 - Nextjs
