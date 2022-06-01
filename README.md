@@ -11,3 +11,9 @@ I'm softawre developper at https://intside.com
 [![kentin Hogbonouto's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/kentinHogbonouto/github-readme-stats)
 
 ### What do i know in computer science
+
+####Frontend Frameword:
+
+- Reactjs
+- Nextjs
+
