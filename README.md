@@ -7,3 +7,4 @@
 
 #### Github Stats 📊
 [![kentin Hogbonouto's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/kentinHogbonouto/github-readme-stats)
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentinHogbonouto&langs_count=8&theme=jolly&layout=compact" />
