@@ -1,6 +1,8 @@
 # Hello world 👋 and welcome on my github page !
 
-I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Currently i am working at intside (software development companie locate at Benin), and i am studying software engineering at alx africa school and at freeCodeCamp. My main stack is the MERN stack (MongODB, Express, Reactjs, Nodejs) But I also use Nextjs for the frontend. I use usualy use jvascript for the modern user interface development, REST Api development, data viualization and more, pyhton for the marching learning, data analysis, solidity for smart contract and C for fun. I am very confident with some of the work tools using in the software development areas such as: 
+I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Currently i am working at intside (software development companie locate at Benin), and i am studying software engineering at alx africa school and at freeCodeCamp.
+
+**Software development tools:**
 - `Slack` `Figma` `Postman` `Infinity` `Webmail` `Github` `Gitlab`
 
 - My favorite IDE is: `Visual studio code`
@@ -8,6 +10,15 @@ I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Curr
 - My favorite debugger is: `console.log()`
 - My favorite OS is: `windows`
 
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 - Contact me on:
 - [![Kentin Hogbonouto Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinsou-kentin-hogbonouto-238819198/)
