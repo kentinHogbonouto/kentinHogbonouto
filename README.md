@@ -6,4 +6,8 @@
 [![Kentin Hogbonouto StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15492572/kentinhogbonouto)
 
 I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Currently i am working at intside software development companie at Benin, i am studying software engineering at alx africa school and at freeCodeCamp. My main stack is the MERN stack (MongODB, Express, Reactjs, Nodejs) But I also use Nextjs for the frontend. I am very confident with some of the work tools using in the software development areas such as: 
-- `Slack` `Figma` `Postman` `Infinity` `Webmail` and so so...
+- `Slack` `Figma` `Postman` `Infinity` `Webmail` `Github` `Gitlab` and so so...
+
+#### Github Stats 📊
+
+[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
