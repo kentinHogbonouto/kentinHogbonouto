@@ -10,4 +10,4 @@ I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Curr
 
 #### Github Stats 📊
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
+[![Kentin's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/anuraghazra/github-readme-stats)
