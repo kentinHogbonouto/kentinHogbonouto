@@ -1,7 +1,7 @@
 # Hello world 👋 and welcome on my github page !
 
 I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Currently i am working at intside (software development companie locate at Benin), and i am studying software engineering at alx africa school and at freeCodeCamp. My main stack is the MERN stack (MongODB, Express, Reactjs, Nodejs) But I also use Nextjs for the frontend. I use usualy use jvascript for the modern user interface development, REST Api development, data viualization and more, pyhton for the marching learning, data analysis, solidity for smart contract and C for fun. I am very confident with some of the work tools using in the software development areas such as: 
-- `Slack` `Figma` `Postman` `Infinity` `Webmail` `Github` `Gitlab` and so so...
+- `Slack` `Figma` `Postman` `Infinity` `Webmail` `Github` `Gitlab`
 
 - Contact on:
 - [![Kentin Hogbonouto Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinsou-kentin-hogbonouto-238819198/)
