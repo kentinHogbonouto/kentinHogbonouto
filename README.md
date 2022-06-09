@@ -3,6 +3,11 @@
 I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Currently i am working at intside (software development companie locate at Benin), and i am studying software engineering at alx africa school and at freeCodeCamp. My main stack is the MERN stack (MongODB, Express, Reactjs, Nodejs) But I also use Nextjs for the frontend. I use usualy use jvascript for the modern user interface development, REST Api development, data viualization and more, pyhton for the marching learning, data analysis, solidity for smart contract and C for fun. I am very confident with some of the work tools using in the software development areas such as: 
 - `Slack` `Figma` `Postman` `Infinity` `Webmail` `Github` `Gitlab`
 
+- My favorite IDE is: `Visual studio code`
+- My favorite web browser is: `Chrome`
+- My favorite debugger is: `console.log()`
+
+
 - Contact on:
 - [![Kentin Hogbonouto Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinsou-kentin-hogbonouto-238819198/)
 [![Kentin Hogbonouto Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kentinhogbonouto1)
