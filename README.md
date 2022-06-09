@@ -6,6 +6,7 @@ I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Curr
 - My favorite IDE is: `Visual studio code`
 - My favorite web browser is: `Chrome`
 - My favorite debugger is: `console.log()`
+- My favorite OS is: `windows`
 
 
 - Contact on:
