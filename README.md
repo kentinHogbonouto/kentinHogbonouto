@@ -33,9 +33,4 @@ I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Curr
 [![Kentin Hogbonouto StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15492572/kentinhogbonouto)
 
 #### Github Stats 📊
-[![Kentin's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+[![Kentin's github stats](https://github-readme-stats.vercel.app/api?username=kentinHogbonouto)](https://github.com/anuraghazra/github-readme-stats
