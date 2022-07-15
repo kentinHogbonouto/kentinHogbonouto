@@ -9,6 +9,7 @@ I'm Kentin Zinsou Hogbonouto, software developper and problem solving avid. Curr
 - My favorite web browser is: `Chrome`
 - My favorite debugger is: `console.log()`
 - My favorite OS is: `windows`
+- `Clean architecture` `Clean code` `Pixel perfect`
 
 **Languages:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
